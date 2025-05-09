@@ -47,6 +47,3 @@ Get your favorite gaming products at the best prices with fast delivery and secu
 If you'd like to contribute or report an issue, feel free to open an issue or submit a pull request.
 
 ---
-
-### 📄 **License:**
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
